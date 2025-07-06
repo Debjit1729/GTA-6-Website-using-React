@@ -38,39 +38,8 @@ GTAVI-main/
 └── README.md           # Project documentation
 ```
 
-## 📦 Installation
-
-Make sure you have [Node.js](https://nodejs.org/) installed.
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/GTAVI.git
-cd GTAVI
-
-# Install dependencies
-npm install
-```
-
-## 🧪 Running the Project
-
-```bash
-# Start development server
-npm run dev
-```
-
-Visit `http://localhost:5173` in your browser.
-
-## 🛠️ Building for Production
-
-```bash
-npm run build
-```
 
 ## 🙌 Credits
 
 - Fonts and assets used are inspired by **Rockstar Games'** branding and design.
 - All logos, names, and content are for educational or concept demonstration purposes only.
-
-## 📜 License
-
-This project is licensed under the MIT License.
